@@ -1,0 +1,20 @@
+{
+  "name": "FoConector",
+  "short_name": "FoConector",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#5a1a2a",
+  "theme_color": "#5a1a2a",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

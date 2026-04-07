@@ -1,0 +1,1 @@
+UPDATE public.profiles SET subscription_status = 'lifetime', subscription_end_date = '2099-12-31T23:59:59Z' WHERE email = 'anaweira@gmail.com';
